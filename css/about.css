@@ -50,7 +50,7 @@ body {
 /* end nav section */
 
 .about {
-  background: url(../images/image1.jpg) no-repeat left;
+  background: url(./images/image1.jpg) no-repeat left;
   margin-top: 90px;
   margin-left: 30px;
   margin-right: 30px;
